@@ -45,7 +45,6 @@ install:
   # Test the current branch
   - cd drupal
   - drush make --prepare-install profiles/derfor-build/build-derfor-dev.make --yes
-  - drush dl panopoly_demo-1.x-dev
   - cd ../
 
   # Setup display for Selenium
