@@ -6,7 +6,7 @@
 FEATURES="ruc_answers ruc_videoes"
 
 # TODO: We should make sure that 'diff' is downloaded first!
-$DRUSH $DRUSH_ARGS en -y diff
+$DRUSH $DRUSH_ARGS en -y diff features
 
 OVERRIDDEN=0
 for feature in $FEATURES; do
