@@ -1,4 +1,4 @@
-[fond.vih.dk](http://fond.vih.dk) [![Build Status](https://secure.travis-ci.org/vih/fond-build.png?branch=7.x-1.x)](http://travis-ci.org/vih/fond-build)
+[fond.vih.dk](http://derfor.vih.dk) [![Build Status](https://secure.travis-ci.org/vih/derfor-build.png?branch=7.x-1.x)](http://travis-ci.org/vih/derfor-build)
 ==
 
 Installation profile for fond.vih.dk
@@ -13,7 +13,7 @@ Installation
 
 To build a complete site, run:
 
-    drush make --prepare-install build-fond.make ~/workspace/fond_dk_build
+    drush make --prepare-install build-derfor.make ~/workspace/derfor_build
 
 Navigate to the root directory in a webbrowser.
 
@@ -28,6 +28,6 @@ entire site, you can run this:
 
 If you want to force a rebuild of everything, you can do:
 
-    drush si panopoly
-    drush en fond_deploy -y
+    drush si minimal
+    drush en derfor_deploy -y
     drush mi --all
