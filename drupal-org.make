@@ -42,7 +42,7 @@ projects[ruc][subdir] = ""
 projects[ruc][download][type] = "git"
 projects[ruc][download][url] = "https://github.com/vih/derfor-modules.git"
 projects[ruc][download][branch] = "initial"
-projects[ruc][download][revision] = "01f86b1"
+projects[ruc][download][revision] = "ddfc617"
 
 ; Custom themes
 
