@@ -38,10 +38,11 @@ projects[views][version] = "3.8"
 ; Custom modules
 
 projects[ruc][type] = "module"
+projects[ruc][subdir] = ""
 projects[ruc][download][type] = "git"
 projects[ruc][download][url] = "https://github.com/vih/derfor-modules.git"
 projects[ruc][download][branch] = "initial"
-projects[ruc][download][revision] = "92d3484"
+projects[ruc][download][revision] = "01f86b1"
 
 ; Custom themes
 
