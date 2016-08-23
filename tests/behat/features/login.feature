@@ -9,13 +9,3 @@ Feature: Anonymous user login
     And I fill in "admin" for "edit-pass"
     And I press "Log in"
     Then I should see "Log out"
-
-  @drush
-  Scenario: Administrator can use navbar
-    Given I am logged in as a user with the "administrator" role
-    Then I should see the link "Log out"
-
-  @drush
-  Scenario: Editor can use navbar (role for the Office)
-    Given I am logged in as a user with the "editor" role
-    Then I should see the link "Log out"
