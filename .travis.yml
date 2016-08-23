@@ -64,7 +64,7 @@ before_script:
 
   - cd drupal
   - drush si minimal --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=admin --site-mail=admin@example.com --site-name="derfor.vih.dk" --yes
-#  - drush en fond_deploy -y
+  - drush en derfor_deploy -y
 #  - drush mi --all
   - drush runserver --server=builtin 8888 > /dev/null 2>&1 &
   - nc -zvv localhost 8888; out=$?; while [[ $out -ne 0 ]]; do echo "Retry hit port 8888..."; nc -zvv localhost 8888; out=$?; sleep 5; done
