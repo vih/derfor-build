@@ -3,7 +3,7 @@
 : ${DRUSH:=drush}
 : ${DRUSH_ARGS:=}
 
-FEATURES="ruc_answers ruc_videoes"
+FEATURES="ruc_answers"
 
 # TODO: We should make sure that 'diff' is downloaded first!
 $DRUSH $DRUSH_ARGS en -y diff features
