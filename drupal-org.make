@@ -31,6 +31,8 @@ projects[link][version] = "1.4"
 
 projects[logintoboggan][version] = "1.5"
 
+projects[migrate][version] = "2.8"
+
 projects[scheduler][version] = "1.5"
 
 projects[token][version] = "1.6"
@@ -44,7 +46,7 @@ projects[ruc][subdir] = ""
 projects[ruc][download][type] = "git"
 projects[ruc][download][url] = "https://github.com/vih/derfor-modules.git"
 projects[ruc][download][branch] = "initial"
-projects[ruc][download][revision] = "4ea8e2e"
+projects[ruc][download][revision] = "b85e1bc"
 
 ; Custom themes
 
@@ -53,4 +55,4 @@ projects[derforruc][subdir] = "derfor"
 projects[derforruc][download][type] = "git"
 projects[derforruc][download][url] = "https://github.com/vih/derfor-theme.git"
 projects[derforruc][download][branch] = "initial"
-projects[derforruc][download][revision] = "29bd57e"
+projects[derforruc][download][revision] = "1193b58"
