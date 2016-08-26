@@ -25,7 +25,11 @@ projects[features][version] = "1.0"
 
 projects[flag][version] = "2.2"
 
+projects[google_analytics][version] = "2.3"
+
 projects[l10n_update][version] = "1.1"
+
+projects[libraries][version] = "2.3"
 
 projects[link][version] = "1.4"
 
@@ -63,7 +67,7 @@ projects[ruc][subdir] = ""
 projects[ruc][download][type] = "git"
 projects[ruc][download][url] = "https://github.com/vih/derfor-modules.git"
 projects[ruc][download][branch] = "initial"
-projects[ruc][download][revision] = "e1b0b29"
+projects[ruc][download][revision] = "6ec5359"
 
 ; Custom themes
 
@@ -72,4 +76,4 @@ projects[derforruc][subdir] = "derfor"
 projects[derforruc][download][type] = "git"
 projects[derforruc][download][url] = "https://github.com/vih/derfor-theme.git"
 projects[derforruc][download][branch] = "initial"
-projects[derforruc][download][revision] = "566e69e"
+projects[derforruc][download][revision] = "cf35d56"
