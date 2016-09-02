@@ -35,7 +35,6 @@ projects[link][version] = "1.4"
 
 projects[logintoboggan][version] = "1.5"
 
-projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 3.6
 
 ; Mailchimp PHP Library
