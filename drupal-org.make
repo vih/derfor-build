@@ -17,9 +17,9 @@ projects[ctools][version] = "1.10"
 
 projects[diff][version] = "3.2"
 
-projects[entity][version] = "1.7"
+projects[entity][version] = "1.8"
 
-projects[entityreference][version] = "1.1"
+projects[entityreference][version] = "1.2"
 
 projects[features][version] = "1.0"
 
