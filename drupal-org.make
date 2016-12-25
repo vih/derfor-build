@@ -13,7 +13,7 @@ projects[cas_attributes][version] = "1.0-rc3"
 
 projects[colorbox][version] = "2.12"
 
-projects[ctools][version] = "1.11"
+projects[ctools][version] = "1.12"
 
 projects[diff][version] = "3.2"
 
