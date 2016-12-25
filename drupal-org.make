@@ -1,7 +1,7 @@
 api = 2
 core = 7.x
 
-defaults[projects][subdir] = contrib
+defaults[projects][subdir] = "contrib"
 
 ; Contrib modules
 
@@ -13,7 +13,7 @@ projects[cas_attributes][version] = "1.0-rc3"
 
 projects[colorbox][version] = "2.12"
 
-projects[ctools][version] = "1.10"
+projects[ctools][version] = "1.11"
 
 projects[diff][version] = "3.2"
 
