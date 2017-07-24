@@ -19,7 +19,7 @@ projects[diff][version] = "3.2"
 
 projects[entity][version] = "1.8"
 
-projects[entityreference][version] = "1.2"
+projects[entityreference][version] = "1.4"
 
 projects[features][version] = "1.0"
 
@@ -49,7 +49,7 @@ projects[scheduler][version] = "1.5"
 
 projects[token][version] = "1.6"
 
-projects[views][version] = "3.14"
+projects[views][version] = "3.16"
 
 projects[webform][version] = "4.13"
 
