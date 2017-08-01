@@ -1,7 +1,7 @@
 [derfor.vih.dk](http://derfor.vih.dk) [![Build Status](https://secure.travis-ci.org/vih/derfor-build.png?branch=7.x-1.x)](http://travis-ci.org/vih/derfor-build)
 ==
 
-Installation profile for fond.vih.dk
+Installation profile for derfor.vih.dk
 
 Requirements
 ------------
